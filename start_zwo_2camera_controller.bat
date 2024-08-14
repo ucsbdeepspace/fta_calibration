@@ -1,0 +1,1 @@
+python ZWO_2camera_controller.py
